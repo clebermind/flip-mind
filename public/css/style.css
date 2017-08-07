@@ -1,0 +1,3 @@
+.mind-fill-step { width: 100%; height: 100%; position: relative; padding: 0px 3% 3% 3%; border: 1px solid #ccc; }
+.mind-fill-step h4 { margin-bottom: 30px }
+.mind-overlay-step { width: 100%; height: 100%; position: absolute; top: 0; left: 0; background-color: #CCC; opacity: 0.45; z-index: 10000; }
